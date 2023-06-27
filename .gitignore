@@ -13,3 +13,6 @@ broadcast/
 
 # Node
 node_modules/
+artifacts/
+typechain-types/
+cache_hardhat
